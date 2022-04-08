@@ -1,5 +1,5 @@
 # Workshop realizado na conferência LatinR 2020
-Palestrantes: Beatriz Milz () e Haydee Svab (https://github.com/hsvab)
+Palestrantes: Beatriz Milz (https://github.com/beatrizmilz) e Haydee Svab (https://github.com/hsvab)
   
 Links importantes:
  - Material disponível em: https://r-ladies-sao-paulo.github.io/xaringan/
@@ -7,3 +7,4 @@ Links importantes:
  - Youtube: https://www.youtube.com/watch?v=WxKYqtF2qDg
  - Inlustrações: https://github.com/allisonhorst/stats-illustrations
  - R Ladies SP: https://github.com/R-Ladies-Sao-Paulo/xaringan
+ - R-Ladies Global: https://github.com/rladies
