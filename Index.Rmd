@@ -1,0 +1,58 @@
+---
+title: "Disciplina FISIOLOGIA VEGETAL"
+subtitle: "Prática 01: Atividade Da Catalase em Tubérculos de Batata (Solanum tuberosum)"
+author: "Prof. Tiago Massi Ferraz; Alunas: Izadora Carvalho e Florine"
+institute: "Universidade Estadual do Maranhão, UEMA"
+date: "2022/04/05 (updated: `r Sys.Date()`)"
+ecoding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: ["kunoichi", "ninjutsu", "custom.css"]
+    #css: [xaringan-themer.css, custom.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+#knit: pagedown::chrome_print  ## interessante usar somente quando tiver finalizado a apresentacao
+
+---
+
+<span style="color:pink"> R-Ladies </span> é uma organização que promove a **diversidade de gênero** na comunidade da linguagem `R`.
+
+```{r xaringan-logo, echo=FALSE}
+xaringanExtra::use_logo(
+  image_url = "https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/xaringan.png",
+  link_url = "https://pkg.garrickadenbuie.com/xaringanExtra/#/logo"
+)
+```
+
+
+---
+Obs: atalho para Chunks de código: ctrl + Alt + i
+```{r echo=FALSE}
+knitr::kable(mtcars)
+
+```
+
+---
+```{r echo=FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("https://github.com/allisonhorst/stats-illustrations/raw/master/other-stats-artwork/acf_1.jpg")
+
+```
+
+---
+
+```{r echo=FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("img/ggplot2.png")
+```
+
+```{r}
+
+x <- 4
+y <- 6
+x + y
+```
+
+---
